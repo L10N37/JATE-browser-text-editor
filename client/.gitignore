@@ -1,0 +1,18 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore build artifacts
+dist/
+
+# Ignore server environment variables
+.env
+
+# Ignore client build artifacts
+/client/dist/
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore package lock files
+package-lock.json
