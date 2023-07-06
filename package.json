@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/L10N37/JATE-browser-text-editor",
   "dependencies": {
+    "@babel/core": "^7.22.8",
     "express": "^4.17.3"
   },
   "devDependencies": {
